@@ -12,4 +12,4 @@ This is the interface example of a modern movie website. It has Dark and Light M
 
 <h2> Screen GIF </h2>
 
-![](Moviewebsite.gif)
+![](movi.gif)
